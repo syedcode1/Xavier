@@ -60,6 +60,14 @@ Install files: https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/rele
 https://www.msi.com/Landing/afterburner/graphics-cards
 
 ## Usage
+
+### Windows Quick Start
+```bash
+xavier.bat
+```
+Simply double-click `xavier.bat` to automatically check dependencies and start Xavier.
+
+### Manual Start
 ```bash
 python telemetry_dualmode_logger.py
 ```
